@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code local config (machine-specific paths)
+.claude/settings.json
+
+# Node (if build tooling added later)
+node_modules/
+npm-debug.log*
+
+# WordPress core / uploads — theme repo only, do not track core
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+wp-config.php
+
+# Local env
+*.local
+.env
+*.zip
+
+# Client-supplied design reference material (heavy binaries — not part of theme)
+/Revised_Website_Change_Log_v1/
+/Website-Changes.pdf

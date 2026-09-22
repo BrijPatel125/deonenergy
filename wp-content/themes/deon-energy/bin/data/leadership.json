@@ -1,0 +1,158 @@
+{
+  "source": "https://deonenergy.in/about-us",
+  "section": "Our Team",
+  "group_note": "group = the section the person renders in (founder / board / team), taken from the approved copy PDF §3. Designations, quotes and bios for the eight people the PDF names come from that PDF; everyone else keeps the designation published on deonenergy.in/about-us and has no bio.",
+  "people": [
+    {
+      "name": "Dharmesh Makadiya",
+      "designation": "Chairman & Managing Director",
+      "bio": "Dharmesh Makadiya is the founder of Deon Energy Limited and leads the company as Chairman and Managing Director. With years of experience across renewable energy and business development, he has shaped the company’s technical standards, its growth in the Gujarat market, and its long-term direction in the Indian solar sector.",
+      "photo_url": "https://deonenergy.in/img/team/img-big(01-1).jpg",
+      "linkedin_url": null,
+      "group": "founder",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": "Our focus is on building with purpose, creating lasting value, and moving the renewable energy sector forward through responsible leadership."
+    },
+    {
+      "name": "Chirag Kalariya",
+      "designation": "Whole-Time Director",
+      "bio": "As Whole-Time Director, Chirag Kalariya contributes to the strategic direction and continued development of Deon Energy. His focus is on responsible decision-making, structured business growth, and building long-term value for the organisation and its stakeholders.",
+      "photo_url": "https://deonenergy.in/img/team/img-big(02-1).jpg",
+      "linkedin_url": null,
+      "group": "founder",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": "Strong businesses are built through clear thinking, responsible decisions, and a commitment to creating lasting value."
+    },
+    {
+      "name": "Bhargav Kavar",
+      "designation": "Director & CFO",
+      "bio": "Financial oversight, capital planning and reporting discipline for the company’s ongoing growth.",
+      "photo_url": "https://deonenergy.in/img/team/img(03).jpg",
+      "linkedin_url": null,
+      "group": "board",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Archana Kalariya",
+      "designation": "Executive Director",
+      "bio": "Contributes to operational governance and cross-functional coordination at the leadership level.",
+      "photo_url": "https://deonenergy.in/img/team/img(04).jpg",
+      "linkedin_url": null,
+      "group": "board",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Dr. Ashok Chavda",
+      "designation": "Independent Director",
+      "bio": "Provides independent perspective on governance and long-term strategic decisions.",
+      "photo_url": "https://deonenergy.in/img/team/img(06).jpg",
+      "linkedin_url": null,
+      "group": "board",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Rajnikant Patel",
+      "designation": "Independent Director",
+      "bio": "Independent oversight with a focus on business governance and stakeholder interest.",
+      "photo_url": "https://deonenergy.in/img/team/img(07).jpg",
+      "linkedin_url": null,
+      "group": "board",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Maulik Bagdai",
+      "designation": "Independent Director",
+      "bio": "Independent guidance on regulatory, governance and strategic matters.",
+      "photo_url": "https://deonenergy.in/img/team/img(12).jpg",
+      "linkedin_url": null,
+      "group": "board",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Himali Lakhani",
+      "designation": "Independent Director",
+      "bio": "Independent perspective supporting board-level governance and diversity of judgement.",
+      "photo_url": "https://deonenergy.in/img/team/img(17).jpg",
+      "linkedin_url": null,
+      "group": "board",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Jeeveka Tharwani",
+      "designation": "Company Secretary",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(05-1).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Vishal Desani",
+      "designation": "General Manager",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(08-1).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Mehul Gajera",
+      "designation": "Revenue Manager",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(09-1).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Shailesh Parikh",
+      "designation": "Head - Account & Finance",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(13).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Parth Kagathara",
+      "designation": "Head - Technical Support",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(10-1).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "Hasmukh Vamja",
+      "designation": "Head - Project",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(16).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    },
+    {
+      "name": "jayesh sindhav",
+      "designation": "Head - Design",
+      "bio": null,
+      "photo_url": "https://deonenergy.in/img/team/img(14).jpg",
+      "linkedin_url": null,
+      "group": "team",
+      "source_page": "https://deonenergy.in/about-us",
+      "quote": null
+    }
+  ],
+  "copy_source": "Deon-Energy-Website-Content.pdf §3 Leadership"
+}

@@ -1,0 +1,37 @@
+/* Tailwind v4 — Phase 2 pages only.
+ * Preflight intentionally excluded: main.css owns base/reset styles.
+ * Build: npm run build:tw  |  Dev: npm run watch:tw
+ */
+
+@import "tailwindcss/theme" layer(theme);
+@import "tailwindcss/utilities" layer(utilities);
+
+@theme {
+  /* Brand colours — client palette (Color.png): #F29020 / #FFFFFF / #1D1B20 / #fbf9f5 */
+  --color-deon-accent:   #f29020;
+  --color-deon-bg:       #fbf9f5;
+  --color-deon-warm:     #fbf9f5;  /* alias — alternates against white */
+  --color-deon-white:    #ffffff;
+  --color-deon-body:     #444748;
+  --color-deon-heading:  #1d1b20;
+  --color-deon-border:   #c4c7c7;
+  --color-deon-divider:  #e5e5e5;
+  --color-deon-icon-bg:  #efeeea;
+  --color-deon-dark:     #1d1b20;  /* footer + dark strips */
+  --color-deon-dark-soft:#2a2830;  /* raised rows on dark */
+  --color-deon-on-dark:  #a7a4ad;  /* muted text on dark */
+  --color-deon-navy:     #001c38;  /* Investor IPO card border */
+  --color-deon-eyebrow:  #494551;  /* Investor section sub-labels */
+
+  /* Typography — references main.css :root vars as single source of truth */
+  --font-sans:    var(--font-body);
+  --font-display: var(--font-head);
+
+  /* Type scale — mirrors main.css --fs-*. Use text-hero/text-h2/text-h3/text-lead
+   * instead of arbitrary text-[NNpx] so the scale stays adjustable in one place. */
+  --text-hero:    var(--fs-hero);
+  --text-h2:      var(--fs-h2);
+  --text-h3:      var(--fs-h3);
+  --text-lead:    var(--fs-lead);
+  --text-eyebrow: var(--fs-eyebrow);
+}

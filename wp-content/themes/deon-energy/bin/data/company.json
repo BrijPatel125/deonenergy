@@ -1,0 +1,47 @@
+{
+  "company_name": "Deon Energy Limited",
+  "website": "https://deonenergy.in",
+  "offices": [
+    {
+      "label": "Ahmedabad Office",
+      "address": "D-604, 605, 606 Westgate, Near YMCA Club, S.G. Highway, Makarba, Ahmedabad-380051, Gujarat, India.",
+      "map_url": "https://maps.app.goo.gl/1hhSsNiHuFgMFwnv7"
+    },
+    {
+      "label": "Rajkot Office",
+      "address": "401, R K Prime, Near Nana Mava Circle, 150 Feet Ring Road, Rajkot-360 005, Gujarat, India.",
+      "map_url": "https://maps.app.goo.gl/o2xmtotpHkRSdQnP9"
+    },
+    {
+      "label": "Morbi Office",
+      "address": "715, 716 & 717 Siromany-142, B/h. Eden Ceramic City, NH-8A, Lalpar-363 642 Morbi, Gujarat, India.",
+      "map_url": "https://maps.app.goo.gl/u1djubd4sfLfpetM9"
+    }
+  ],
+  "registered_address": null,
+  "email": [
+    "info@deonenergy.in"
+  ],
+  "phone": [
+    "18008905933",
+    "+91 9737399977"
+  ],
+  "phone_notes": "18008905933 is the only phone shown live (footer, header, contact page, WhatsApp). +91 9737399977 exists only inside commented-out markup in the site header.",
+  "whatsapp": "https://api.whatsapp.com/send?phone=18008905933&text=Hello",
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/deon-energy/",
+    "instagram": "https://www.instagram.com/deon_energy.in/",
+    "facebook": "https://www.facebook.com/deonenergylimited",
+    "youtube": "https://www.youtube.com/@deonenergy/videos"
+  },
+  "social_inactive": {
+    "twitter": "https://twitter.com/DeonEnergy"
+  },
+  "cin": null,
+  "gst": null,
+  "registration_numbers": null,
+  "office_hours": null,
+  "contact_intro": "Discover more about renewable energy for your simple residence / office solar rooftop solutions or greater economic ventures associated with utility scale solar projects from Team Deon Energy Limited",
+  "copyright": "© Copyright 2026 Deon Energy Limited All rights reserved...",
+  "developed_by": "adsgraphic.com"
+}

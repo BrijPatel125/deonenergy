@@ -1,0 +1,24 @@
+# Deon Energy theme — deny direct access to internal docs.
+# Defense-in-depth: even if a markdown/notes file lands on the server,
+# it 403s instead of being fetchable at /wp-content/themes/deon-energy/<file>.
+# Apache 2.4+ / LiteSpeed syntax.
+
+<FilesMatch "\.(md|markdown|txt)$">
+  Require all denied
+</FilesMatch>
+
+<Files "deo_sow.pdf">
+  Require all denied
+</Files>
+
+# Apache 2.2 fallback (harmless on 2.4).
+<IfModule !mod_authz_core.c>
+  <FilesMatch "\.(md|markdown|txt)$">
+    Order allow,deny
+    Deny from all
+  </FilesMatch>
+  <Files "deo_sow.pdf">
+    Order allow,deny
+    Deny from all
+  </Files>
+</IfModule>

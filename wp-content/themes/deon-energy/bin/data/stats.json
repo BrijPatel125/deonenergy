@@ -1,0 +1,58 @@
+{
+  "computed": {
+    "total_projects": 34,
+    "total_mw": 154.414,
+    "states_covered": [
+      "Gujarat"
+    ],
+    "states_count": 1,
+    "cities_covered": [
+      "Anida",
+      "Aniyari",
+      "Bavla",
+      "Bhechada",
+      "Bhensdad",
+      "Chital",
+      "Dhangadhra",
+      "Dhrangadhra",
+      "Ghutu",
+      "Gondal",
+      "Haripar",
+      "Jaliya",
+      "Khodu",
+      "Lakhadhirgadh",
+      "Methan",
+      "Padadhari",
+      "Rajula",
+      "Ramgadh",
+      "Raygadh",
+      "Saraya",
+      "Savdi",
+      "Sethvadala",
+      "Sitapur",
+      "Soladi",
+      "Tankara",
+      "Thorala",
+      "Valasan",
+      "Vavdi",
+      "karyani"
+    ],
+    "cities_count": 29,
+    "projects_missing_capacity": []
+  },
+  "site_claimed": {
+    "homepage": "Deon has always stayed ahead of the curve, developing into experts in our field, and has installed more then 50MW of solar systems, including commercial rooftop and ground mount solar power plant across the Gujarat...",
+    "homepage_value_mw": 50,
+    "about_us": "Deon Energy Limited has always stayed ahead of the curve, developing into experts in our field, and has installed more than 300MW of solar systems, including commercial rooftops and ground mounted solar power plants across the Gujarat.",
+    "about_us_value_mw": 300,
+    "investors": "Deon Energy Limited has always stayed ahead of the curve, developing into experts in our field, and has installed more than 300MW of solar systems, including commercial rooftops and ground mounted solar power plants across the Gujarat.",
+    "investors_value_mw": 300,
+    "board_team": "We are a company driven and operated by a dynamic board team of 30 individuals with expertise in capital mobilization, project development, project management, and renewable power plant operations.",
+    "board_team_count": 30
+  },
+  "discrepancies": [
+    "Homepage says '50MW' while About Us and Investors both say '300MW' — the live site contradicts itself.",
+    "Sum of all published project capacities in the Project Gallery = 154.414 MW, which matches neither the 50MW nor the 300MW claim.",
+    "About Us claims a 'board team of 30 individuals' but the Our Team section shows only 15 people."
+  ]
+}

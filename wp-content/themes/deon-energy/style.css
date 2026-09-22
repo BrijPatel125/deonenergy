@@ -1,0 +1,15 @@
+/*
+Theme Name: Deon Energy
+Theme URI: https://deonenergy.in
+Author: Deon Energy Limited
+Description: Custom classic WordPress theme for Deon Energy Limited corporate website. Built from approved design.
+Version: 0.9.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 8.0
+License: Proprietary
+Text Domain: deon-energy
+*/
+
+/* Theme styles live in assets/css/main.css (enqueued via functions.php).
+   This file only carries the theme header required by WordPress. */
